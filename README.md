@@ -67,6 +67,28 @@ You can find more info in corresponding folders in this repo.
 
 Optimized track line:
 
-<p align="center"><img width=100% src=https://github.com/JuliaSokolova/DeepRacer/blob/master/img/optimized-track-lane.png>
+<p align="center"><img width=50% src=https://github.com/JuliaSokolova/DeepRacer/blob/master/img/optimized-track-lane.png>
+    
+Optimized action space:
+
+<p align="center"><img width=50% src=https://github.com/JuliaSokolova/DeepRacer/blob/master/img/action-space.png>
+    
+Car training video:
+
+[![DeepRacer: training Umka](https://img.youtube.com/vi/30daMObilmY/0.jpg)](https://youtu.be/30daMObilmY "DeepRacer: training Umka")
+
+
+Race results:
+- best time 12.689 s (winner - 7.668 s)
+- rank: 270 out of 670 cars
+
+
+
+    
+
+    
+
+    
+    
 
 
